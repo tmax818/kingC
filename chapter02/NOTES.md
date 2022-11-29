@@ -25,8 +25,8 @@ Three key langauge features:
 
 ### Directives
 
-directive:
-    commands meant for the preprocessor
+directive
+: commands meant for the preprocessor
 
 ### Functions
 
