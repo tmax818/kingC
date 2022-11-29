@@ -2,7 +2,9 @@
 
 ## 2.1 Writing a Simple Program
 
-### PROGRAM [Printing a Pun](pun.c)
+### PROGRAM Printing a Pun
+
+- [pun.c](pun.c)
 
 ### Compiling and Linking
 
@@ -20,3 +22,12 @@ Three key langauge features:
 1. directives
 2. functions
 3. statements
+
+### Directives
+
+directive:
+    commands meant for the preprocessor
+
+### Functions
+
+### Statements
