@@ -25,9 +25,27 @@ Three key langauge features:
 
 ### Directives
 
-directive
-: commands meant for the preprocessor
+directive: 
+- commands meant for the preprocessor
+- begin with the `#` character
+
 
 ### Functions
 
+> [Functions] are the building blocks from which programs are constructed. In fact, a C program is little more than a collection of functions.
+
+> In C, a function is simply a series of statements that have been grouped together and given a name.
+
 ### Statements
+
+> a statemnt is a command to be executed when the program runs.
+
+
+### Printing Strings
+
+- the old `printf` 
+
+## 2.3 Comments
+
+## 2.4 Variables and Assignment
+

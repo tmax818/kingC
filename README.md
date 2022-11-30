@@ -21,6 +21,6 @@
 ### [Compiling and Linking](chapter02/NOTES.md#compiling-and-linking)
 ### [Integrated Development Environments](chapter02/NOTES.md#integrated-development-environments)
 ## [2.2 The General Form of a Simple Program](chapter02/NOTES.md#22-the-general-form-of-a-simple-program)
-### [Directives]
+### [Directives](chapter02/NOTES.md#directives)
 ### [Functions]
 ### [Statements]
