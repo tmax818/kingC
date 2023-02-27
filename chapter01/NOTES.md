@@ -19,7 +19,7 @@
 - Flexibility
 - Standard Library
 - Integration with UNIX
-> C is partiularly powerful in combination with UNIX(including the popular variant known as Linux). In fact, some UNIX tools assume that the user knows C.
+> C is particularly powerful in combination with UNIX(including the popular variant known as Linux). In fact, some UNIX tools assume that the user knows C.
 ### Weaknesses
 
 - error-prone
@@ -29,9 +29,9 @@
 
 - Learn how to avoid C pitfalls.
 - Use software tools to make programs more reliable.
-- Take advantage of existing code libaries.
+- Take advantage of existing code libraries.
 - Adopt a sensible set of coding conventions.
-- Aviod *"tricks"* and overly complex code.
+- Avoid *"tricks"* and overly complex code.
 - Stick to the standard.
 
 

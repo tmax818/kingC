@@ -1,9 +1,9 @@
 # kingC
 
-## C Programming, A Modern Approach (2nd. Edition)
+# C Programming, A Modern Approach (2nd. Edition)
 
 ### [Chapter 1](chapter01/NOTES.md)
-# [Introducing C](chapter01/NOTES.md#introducing-c)
+## [Introducing C](chapter01/NOTES.md#introducing-c)
 ## [1.1 History of C](chapter01/NOTES.md#11-history-of-c)
 ### [Origins](chapter01/NOTES.md#origins)
 ### [Standardization](chapter01/NOTES.md#standardization)
@@ -24,3 +24,4 @@
 ### [Directives](chapter02/NOTES.md#directives)
 ### [Functions]
 ### [Statements]
+
