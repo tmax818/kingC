@@ -4,7 +4,7 @@
 
 ### PROGRAM Printing a Pun
 
-- [pun.c](pun.c)
+- [pun.c](./code/pun.c)
 
 ### Compiling and Linking
 
