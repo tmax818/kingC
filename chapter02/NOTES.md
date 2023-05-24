@@ -17,7 +17,7 @@ Three steps:
 
 ## 2.2 The General Form of a Simple Program
 
-Three key langauge features:
+Three key language features:
 
 1. directives
 2. functions
@@ -38,7 +38,7 @@ directive:
 
 ### Statements
 
-> a statemnt is a command to be executed when the program runs.
+> a statement is a command to be executed when the program runs.
 
 
 ### Printing Strings
