@@ -3,10 +3,12 @@
 
 
 ## 4.1 arithmetic operators
+
 ### operator precedence and associativity
 ### program: computing a upc check digit
 
 ## 4.2 assignment operators
+
 ### simple assignment
 ### **Lvalues**
 
@@ -19,9 +21,10 @@
 ## 4.3 increment and decrement operators
 
 ## 4.4 expression evaluation
+
 ### order of subexpression evaluation
 
-## 4.5 expression statements
+## 4_5 expression statements
 
 >C has the unusual rule that any expression can be used as a statement.
 

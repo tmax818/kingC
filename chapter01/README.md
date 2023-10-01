@@ -9,6 +9,7 @@
 ![](../images/Pdp7-oslo-2005.jpeg)
 
 ### Standardization
+
 ### C-Based Languages
 
 ## 1.2 Strengths and Weaknesses of C
