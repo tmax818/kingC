@@ -1,6 +1,11 @@
 {
     "cSpell.words": [
+        "addfrac",
+        "lvalue",
+        "Lvalues",
         "Ritchie",
-        "scanf"
+        "scanf",
+        "subexpression",
+        "tprintf"
     ]
 }

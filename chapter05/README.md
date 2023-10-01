@@ -1,7 +1,14 @@
 # chapter 5 selection statements
 
-## 5.1
+## 5.1 logical expressions
 
-## 5.2
+### relational operators
+### equality operators
+### logical operators
 
-## 5.3
+## 5.2 the `if` statement
+
+### compound statements
+### the `else` clause
+
+## 5.3 the `switch` statement
