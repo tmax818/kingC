@@ -20,11 +20,6 @@
 
 - dividing the array size bye the element size gives the length of the array:
 
-```C
-
-
-
-```
 
 ### program computing interest
 

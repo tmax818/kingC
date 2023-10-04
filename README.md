@@ -32,5 +32,7 @@
 
 ## [Chapter 15 writing large programs ](chapter15/README.md)
 
+## [Chapter 16 structures, unions, and enumerations ](chapter16/README.md)
+
 
 

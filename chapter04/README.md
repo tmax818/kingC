@@ -24,7 +24,7 @@
 
 ### order of subexpression evaluation
 
-## 4_5 expression statements
+## 4.5 expression statements
 
 >C has the unusual rule that any expression can be used as a statement.
 

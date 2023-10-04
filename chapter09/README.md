@@ -1,13 +1,31 @@
 # chapter 9 functions
 
-## 9.1
+## 9.1 defining and calling functions
 
-## 9.2
+### program: computing averages
+### program: printing a countdown
+### program: printing a pun (revisited)
+### function definitions
+### function calls
+### program: testing whether a number is prime
 
-## 9.3
+## 9.2 function declarations
 
-## 9.4
+## 9.3 arguments
 
-## 9.5
+### argument conversions
+### array arguments
+### variable-length parameters
+### using `static` in array parameter declarations
+### compound literals
 
-## 9.6
+## 9.4 the `return` statement
+
+## 9.5 program termination
+
+### the `exit` function
+
+## 9.6 recursion
+ 
+### the quicksort algorithm
+### program: quicksort

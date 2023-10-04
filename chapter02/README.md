@@ -49,3 +49,24 @@ directive:
 
 ## 2.4 Variables and Assignment
 
+### types
+### declarations
+### assignments
+### printing the value of a variable
+### program: computing the dimensional weight of a box
+### initialization
+### printing expressions
+
+## 2.5 reading input
+
+### program: computing the dimensional weight of a box (revisited)
+
+## 2.6 defining names for constants
+
+### program: converting from fahrenheit to celsius
+
+## 2.7 identifiers
+
+### keywords
+
+## 2.8 layout of a C program
