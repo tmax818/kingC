@@ -77,6 +77,16 @@ q = p;
 
 
 ### program: finding the largest and smallest elements in an array
+
+- [maxmin.c](./code/maxmin.c)
+
 ### using `const` to protect arguments
 
+- pointers can be `const` for efficiency;
+
 ## 11.5 pointers and return values
+
+- see [larger.c](./code/larger.c)
+
+
+

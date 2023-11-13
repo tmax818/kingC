@@ -12,11 +12,21 @@
 - [reverse.c](./code/reverse.c)
 
 ### array initialization
+
+- [array initializer]
+
+
 ### designated initializers
+
+
 ### program checking a number for repeated digits
+
+- [repdigit.c](./code/repdigit.c)
+
+
 ### using the `sizeof` operator with arrays
 
->The `sizeof` operator can determine teh size of an array (in bytes).
+>The `sizeof` operator can determine the size of an array (in bytes).
 
 - dividing the array size bye the element size gives the length of the array:
 
@@ -30,3 +40,5 @@
 ### program dealing a hand of cards
 
 ## 8.3 variable-length arrays (C99)
+
+[array initializer]: []()
