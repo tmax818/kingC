@@ -32,6 +32,7 @@
 - error-prone
 - difficult to understand
 - difficult to modify
+
 ### Effective Use of C
 
 - Learn how to avoid C pitfalls.
