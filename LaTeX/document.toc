@@ -1,5 +1,5 @@
-\contentsline {chapter}{\numberline {1}Introducing C}{5}{}%
-\contentsline {section}{\numberline {1.1}history of C}{5}{}%
-\contentsline {section}{\numberline {1.2}strengths/weaknesses}{5}{}%
-\contentsline {chapter}{\numberline {2}C Fundamentals}{7}{}%
-\contentsline {section}{\numberline {2.1}simple program}{7}{}%
+\contentsline {chapter}{\numberline {1}Introducing C}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}history of C}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}strengths/weaknesses}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}C Fundamentals}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}simple program}{7}{section.2.1}%
